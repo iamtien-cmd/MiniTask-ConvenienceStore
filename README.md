@@ -1,6 +1,6 @@
 # MiniTask-ConvenienceStore
 
-Convenience Store (7-Eleven) E-Commerce Platform built with Java Servlet/JSP and PostgreSQL. This is a personal project completed within a 3-day to revise some my knowledge from University.
+Convenience Store (7-Eleven) E-Commerce Platform built with Java Servlet/JSP and PostgreSQL. This is a personal project completed within a 5-day to revise some my knowledge from University.
 ## HOSTING LINK: minitask-conveniencestore-production.up.railway.app
 
 ## 🚀 Key Features
