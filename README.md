@@ -4,7 +4,7 @@ Convenience Store (7-Eleven) E-Commerce Platform built with Java Servlet/JSP and
 ## HOSTING LINK: minitask-conveniencestore-production.up.railway.app
 
 ## 🚀 Key Features
-* **Authentication:** Login, Register, Logout, and Password Recovery.
+* **Authentication:** Login (OAuth 2.0 Client), Register, Logout, and Password Recovery.
 * **Customer Workflows:** Browse products, add to cart, and process secure checkout.
 * **Admin Management:** Full CRUD operations for products and inventory tracking.
 * **Database Optimization:** Business logic shifted to the database layer using **Stored Procedures** and **Triggers** to automate inventory deduction and status synchronization, boosting backend performance by 20%. (expected)
