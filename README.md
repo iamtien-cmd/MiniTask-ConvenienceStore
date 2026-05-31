@@ -18,6 +18,10 @@ Before running the project, ensure you have the following installed:
 * **Database:** PostgreSQL (Local Server or Cloud Neon DB)
 * **Server:** Apache Tomcat 9.0 or 10.0
 * **Build Tool:** Maven
+* I choose Java JSP/Servlet because this is the simplest framework which all later frameworks base on. Therefore, it boosts performance every loading page.
+* PostgreSQL because JD require uses MongoDB or PostgreSQL.
+## ERD 
+<img width="1164" height="807" alt="image" src="https://github.com/user-attachments/assets/4b6e0a71-4e03-49d7-b0cb-cb5c65e8074d" />
 
 ---
 ## USER
